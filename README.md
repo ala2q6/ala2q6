@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ala2q6
 - 📫 ala2q6@umsystem.edu
 
 <!---
