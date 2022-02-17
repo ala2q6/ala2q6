@@ -16,7 +16,7 @@
   <img width="50" src="https://cdn.discordapp.com/attachments/934690396037054537/934748675001946113/spotify.png">
   <img width="75vh" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png">
 
-  <a href = ''>
-  <img width="50" src="https://lxrbckl.herokuapp.com/myProject">
+  <a href = 'https://lxrbckl.herokuapp.com/'>
+  <img width="50" src="https://cdn.discordapp.com/attachments/934690396037054537/934749923835019314/blog.png">
     
 </p>
