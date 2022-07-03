@@ -15,4 +15,7 @@
   <a href = 'https://www.linkedin.com/in/alexander-arbuckle-857146243/'>
   <img width="150" src="https://cdn.discordapp.com/attachments/993060883670511646/993062457503404113/linkedin.png">
     
+  <a href = 'https://open.spotify.com/user/bop1bgw7rlj4m9sacbnmonjnl?si=2a0ee506b0464315'>
+  <img width="150" src="https://cdn.discordapp.com/attachments/993060883670511646/993062411944874085/spotify.png">
+  
 </p>
