@@ -12,7 +12,7 @@
   <a href = 'http://lxrbckl.com'>
   <img width="155" src="https://cdn.discordapp.com/attachments/997331275704705053/1048341426678800444/blog.png">
     
-  <a href = 'https://www.linkedin.com/in/alexander-arbuckle-857146243/'>
+  <a href = 'https://www.linkedin.com/in/lxRbckl/'>
   <img width="155" src="https://cdn.discordapp.com/attachments/997331275704705053/1048341427991617626/LinkedIn.png">
   
 </p>
